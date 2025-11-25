@@ -1,0 +1,5 @@
+{
+  "name": "MythicPaths",
+  "description": "An infinite choose-your-own-adventure engine with real-time AI-generated imagery and dynamic state tracking.",
+  "requestFramePermissions": []
+}
